@@ -1,6 +1,4 @@
 #POS
-
-By: Tarek Wagih Salama
 Project name: POS
 Project Idea: Small Idea of POS System
 
